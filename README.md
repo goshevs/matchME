@@ -8,7 +8,6 @@ To load `matchME`, include the following line in your do file:
 
 ```
 qui do "https://raw.githubusercontent.com/goshevs/matchME/master/matchME.ado"
-
 ```
 
 ### Syntax
@@ -24,7 +23,7 @@ qui do "https://raw.githubusercontent.com/goshevs/matchME/master/matchME.ado"
 | argument    | description            |
 |-------------|------------------------|
 | *varlist*   | the set of variables to match on |
-| *dist*      | distance measure. Currently supposted distances are `Euclieadean', `nEuclidean` (normalized Euclidean) and `Mahalanobis` |
+| *dist*      | distance measure. Currently supposted distances are `Euclieadean`, `nEuclidean` (normalized Euclidean) and `Mahalanobis` |
 
 <br>
 
